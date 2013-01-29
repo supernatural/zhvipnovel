@@ -1,4 +1,8 @@
-zhvipnovel
-==========
+nvp
+===
 
-parse HTML novel and save to plain text
+novel vip printer
+
+Download VIP novels and saved into plain text for reading on Mobile Phone :)
+
+(UTF-8 encoding)
